@@ -9,12 +9,12 @@
   },
   "dependencies": {
     "@motion-canvas/2d": "^3.17.1",
-    "@motion-canvas/core": "^3.13.0"
+    "@motion-canvas/core": "^3.13.0",
+    "@hhenrichsen/canvas-commons": "^0.10.0"
   },
   "devDependencies": {
     "@motion-canvas/ui": "^3.17.0",
     "@motion-canvas/vite-plugin": "^3.17.0",
-    "glob": "^11.0.0",
     "typescript": "^5.5.4",
     "vite": "^5.4.3"
   }
