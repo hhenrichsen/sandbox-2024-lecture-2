@@ -28,13 +28,15 @@
     "prettier": "^3.3.3",
     "reveal.js": "^5.1.0",
     "typescript": "^5.5.4",
+    "unocss": "^0.62.3",
     "vite": "^5.4.3",
     "vite-plugin-static-copy": "^1.0.6"
   },
   "dependencies": {
     "@catppuccin/palette": "^1.2.0",
     "@motion-canvas/core": "^3.17.0",
-    "@motion-canvas/player": "^3.17.0"
+    "@motion-canvas/player": "^3.17.0",
+    "iconify-icon": "^2.1.0"
   },
   "workspaces": [
     "packages/*"

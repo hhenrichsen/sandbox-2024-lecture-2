@@ -7,6 +7,8 @@ import './styles/catppuccin.css';
 import './styles/index.css';
 import '../fonts/fonts.css';
 import '@motion-canvas/player';
+import 'iconify-icon';
+import 'virtual:uno.css';
 import Reveal from 'reveal.js';
 
 const deck = new Reveal({

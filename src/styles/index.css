@@ -61,6 +61,10 @@
     border-radius: 0.25rem;
 }
 
+code {
+    background: #11111b;
+}
+
 .quote::after {
     content: '“';
     font-family: var(--r-heading-font);
@@ -114,4 +118,19 @@
 .question h5,
 .question h6 {
     color: var(--ctp-mocha-peach);
+}
+
+header {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    gap: 1rem;
+}
+
+.attribution {
+    font-style: italic;
+    font-size: large;
+    font-family: var(--r-heading-font);
+    color: var(--ctp-mocha-overlay0);
 }
