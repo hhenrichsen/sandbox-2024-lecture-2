@@ -33,7 +33,7 @@
     "vite-plugin-static-copy": "^2.0.0"
   },
   "dependencies": {
-    "@catppuccin/palette": "^1.5.0",
+    "@catppuccin/palette": "^1.7.1",
     "@motion-canvas/core": "^3.17.0",
     "@motion-canvas/player": "^3.17.0",
     "iconify-icon": "^2.1.0"
