@@ -29,7 +29,7 @@
     "reveal.js": "^5.1.0",
     "typescript": "^5.7.2",
     "unocss": "^0.65.1",
-    "vite": "^6.0.2",
+    "vite": "^6.0.3",
     "vite-plugin-static-copy": "^2.2.0"
   },
   "dependencies": {
