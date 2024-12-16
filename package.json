@@ -35,7 +35,7 @@
   "dependencies": {
     "@catppuccin/palette": "^1.7.1",
     "@motion-canvas/core": "^3.17.2",
-    "@motion-canvas/player": "^3.17.0",
+    "@motion-canvas/player": "^3.17.2",
     "iconify-icon": "^2.2.0"
   },
   "workspaces": [
