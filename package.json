@@ -20,7 +20,7 @@
   "devDependencies": {
     "@catppuccin/highlightjs": "^1.0.0",
     "@types/reveal.js": "^5.0.5",
-    "@typescript-eslint/eslint-plugin": "^8.27.0",
+    "@typescript-eslint/eslint-plugin": "^8.28.0",
     "@typescript-eslint/parser": "^8.27.0",
     "concurrently": "^9.1.2",
     "eslint": "^9.23.0",
