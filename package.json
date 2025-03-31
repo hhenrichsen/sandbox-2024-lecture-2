@@ -18,7 +18,7 @@
     "prettier:fix": "prettier --write ."
   },
   "devDependencies": {
-    "@catppuccin/highlightjs": "^1.0.0",
+    "@catppuccin/highlightjs": "^1.0.1",
     "@types/reveal.js": "^5.0.5",
     "@typescript-eslint/eslint-plugin": "^8.28.0",
     "@typescript-eslint/parser": "^8.28.0",
