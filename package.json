@@ -21,7 +21,7 @@
     "@catppuccin/highlightjs": "^1.0.1",
     "@types/reveal.js": "^5.2.2",
     "@typescript-eslint/eslint-plugin": "^8.61.1",
-    "@typescript-eslint/parser": "^8.60.1",
+    "@typescript-eslint/parser": "^8.62.0",
     "concurrently": "^10.0.3",
     "eslint": "^10.5.0",
     "eslint-plugin-tsdoc": "^0.5.2",
