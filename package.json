@@ -25,7 +25,7 @@
     "concurrently": "^10.0.3",
     "eslint": "^10.6.0",
     "eslint-plugin-tsdoc": "^0.5.2",
-    "prettier": "^3.9.1",
+    "prettier": "^3.9.4",
     "reveal.js": "^6.0.1",
     "typescript": "^6.0.3",
     "unocss": "^66.7.3",
